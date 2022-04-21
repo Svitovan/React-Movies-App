@@ -14,7 +14,7 @@ class Search extends React.Component {
                     type="search" 
                     className="validate" 
                     value={this.state.search}
-                    onChange={}
+                    
                 />
             </div>
             </div>
